@@ -6,7 +6,7 @@ export default function Index(){
   return(
     <div>
       <Head>
-        <title>TreinaCook</title>
+        <title>SuperCookies</title>
         <link rel="stylesheet" href="/styles/page.css" />
         <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css"/>
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" />
